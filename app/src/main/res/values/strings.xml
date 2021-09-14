@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListofUsers</string>
+    <string name="nodata">No data</string>
+</resources>
